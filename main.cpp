@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-    cout << "test";
+    // @LiamAlme
+    std::cout << "test";
     return 0;
 }
